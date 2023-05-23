@@ -106,7 +106,6 @@ status:true,
         addButton(`Ответы`, `selectAnswer`);
         addButton(`На рассмотрение`, `pin`);
         addButton(`Одобрено`, `accepted`);
-        addButton(`КП`, `teamProject`);
         addButton(`Закрыть`, `closed`);
         adddButton(`Решено`,`decided`);
 
